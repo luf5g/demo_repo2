@@ -3,3 +3,9 @@
     background-color: lightblue;
     text-align: center;
   }
+
+  .myDiv2 {
+    border: 5px outset blue;
+    background-color: rgb(10, 185, 243);
+    text-align: left;
+  }
