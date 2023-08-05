@@ -11,7 +11,13 @@ function changeColor2() {
 
 
 function changeColor3() {
-    name.style.color = "blue";
+    print("test")
+    changeColor1()
+    changeColor2()
+
+    print("test")
+    changeColor4()
+    changeColor5()
 }
 
 
